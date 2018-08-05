@@ -1,5 +1,8 @@
 # Exos 
 
+## Heroku 
+https://phpcrunching01.herokuapp.com/
+
 ## Dictionnaire
 
 Commencez par télécharger un dictionnaire de la langue française puis chargez le dans votre code :
