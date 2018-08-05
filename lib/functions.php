@@ -2,7 +2,7 @@
 
 function getContent(){
 	if(!isset($_GET['page'])){
-		include __DIR__.'/../pages/dico.php';
+		include __DIR__.'/../pages/home.php';
     }
     else if ($_GET['page'] == 'cinema'){
         include __DIR__.'/../pages/cinema.php';
