@@ -1,4 +1,10 @@
 {
+    "name":"php crunching",
+    "description": "exo1",
+    "scripts": {
+    	"test" : "./vendor/bin/phpunit ./test/tests.php",
+        "start" : "php -S localhost:8000 -t public"
+    },
     "require": {
         "php": "^7.0.30"
     },
