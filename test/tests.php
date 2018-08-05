@@ -1,5 +1,5 @@
 <?php
-require __DIR__.'./pages/dico.php';
+require __DIR__.'./../pages/dico.php';
 
 $string = file_get_contents("films.json", FILE_USE_INCLUDE_PATH);
 $brut = json_decode($string, true);
